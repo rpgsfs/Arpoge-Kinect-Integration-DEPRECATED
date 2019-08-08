@@ -1,0 +1,4 @@
+*.onnx
+**/packages/
+**/x64/
+**/.vs/
